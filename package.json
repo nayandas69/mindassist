@@ -1,0 +1,17 @@
+{
+  "name": "mindassist",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "nayandas69",
+  "license": "Unlicense",
+  "description": "An MCP bot that gives motivational tips and productivity hacks.",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.12.3",
+    "dotenv": "^16.5.0",
+    "zod": "^3.25.64"
+  }
+}
