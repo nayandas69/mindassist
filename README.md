@@ -2,6 +2,9 @@
 
 MindAssist is a minimal and extensible MCP (Model Context Protocol) tool designed to deliver daily motivational advice and productivity tips. It is a stateless, lightweight utility that integrates seamlessly into any MCP-compatible system using standard input/output.
 
+> [!Note]
+> This project is not actively maintained and is provided as-is. It serves as a simple example of how to implement a tool server using the MCP protocol.
+
 ## Features
 
 - [x] Lightweight and fast MCP tool server
